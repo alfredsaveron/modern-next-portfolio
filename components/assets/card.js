@@ -9,7 +9,7 @@ export default function Card() {
         <div className="w-full">
             <div className="flex flex-col justify-center max-w-xs my-8 mx-auto bg-white shadow-xl rounded-xl p-5 dark:bg-gray-900">
                 <div className="">
-                    <img className="w-32 mx-auto shadow-xl rounded-full" src={pfp} alt="https://media.discordapp.net/attachments/745937151094423642/783397452032114759/a_a8b95d9fcbc4dca7a4034c46e16b7bcc.png" />
+                    <img className="w-32 mx-auto shadow-xl rounded-full" src={pfp} alt="Alf's PFP" />
                 </div>
                 <div className="text-center mt-5">
                     <p className="text-lg sm:text-xl font-semibold text-gray-900 dark:text-gray-50">
