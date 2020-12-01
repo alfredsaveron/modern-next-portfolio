@@ -5,9 +5,9 @@ export default function Footer() {
         <section className="text-gray-500 body-font bg-gray-900">
             <div className="container flex flex-wrap px-5 py-24 mx-auto items-center">
                 <div className="md:w-1/2 md:pr-12 md:py-8 md:border-r md:border-b-0 md:mb-0 mb-10 pb-10 border-b border-gray-800">
-                    <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">Made with 💜 by Kaguwo.</h1>
+                    <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">Made with 💜 by Kaguwo Network.</h1>
                     <p className="leading-relaxed text-base">
-                        Most of the components are taken from GitHub and other template websites. I'm gonna give all of the links that I tried to create this portfolio for everyone's usage. Want to contribute this project? Send your GitHub pull request to repository and let me check every details of your changed/added assets to website.
+                        Most of the components are taken from GitHub and other template websites. What is Kaguwo Network? Kaguwo Network is a group jointly managed by a group of developers and developing open source projects. So where do Kaguwo Network Developers live? In fact, we all live in Turkey. But we are all in different cities, 2 of our members live in Adana, 1 member lives in Izmir, and the other 1 member lives in Muğla.
                     </p>
                     <a className="text-purple-500 inline-flex items-center mt-4" href="https://github.com/kaguwomin/modern-next-portfolio"> GitHub Repository
                         <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
