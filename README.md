@@ -53,4 +53,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 You can share your new ideas for this portfolio with pull requesting your new changes/assets! I'll look your pull request as soon as possible!
 
-**Thanks.**
+**Thanks**
