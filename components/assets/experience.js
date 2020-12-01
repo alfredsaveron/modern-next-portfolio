@@ -1,4 +1,4 @@
-import { FaReact } from 'react-icons/fa'
+import { FaHTML } from 'react-icons/fa'
 import { FaJsSquare } from 'react-icons/fa'
 import { FaSwift } from 'react-icons/fa'
 
@@ -7,9 +7,9 @@ export default function Skills() {
         <section className="text-black bg-gray-100 body-font dark:text-white dark:bg-gray-800">
             <div className="container px-4 py-24 mx-auto">
                 <div className="text-center mb-20">
-                    <h1 className="sm:text-5xl text-4xl font-medium title-font text-black mb-4 dark:text-white">Experience</h1>
+                    <h1 className="sm:text-5xl text-4xl font-medium title-font text-black mb-4 dark:text-white">About</h1>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                        To be honest, I'm currently working for like <strong>3 years</strong> in this programming industry. I tried so many back-end languages in past but I don't understand of anything... so I tried my chance with front-end development and today, I'm creating amazing websites to my customers and they like my designs.
+                        Hello, I'm Alf, I'm currently living in Izmir, Turkey and yes I'm Turkish Front-end Developer at Switch Inc. Community Coordinator - Manager at Kaguwo's Pub and GAPI. Senior Moderator at Switch Industries and Discord Extreme List. Turkish Translator at AdBlock, WordPress, GearBot, DEL and more. Mostly using these languages for my projects and more.; JavaScript and Python.
                     </p>
                     <div className="flex mt-6 justify-center">
                         <div className="w-72 h-1 rounded-full bg-purple-500 inline-flex"></div>
