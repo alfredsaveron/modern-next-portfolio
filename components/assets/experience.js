@@ -1,4 +1,4 @@
-import { FaHTML } from 'react-icons/fa'
+import { FaReact } from 'react-icons/fa'
 import { FaJsSquare } from 'react-icons/fa'
 import { FaSwift } from 'react-icons/fa'
 
@@ -9,7 +9,7 @@ export default function Skills() {
                 <div className="text-center mb-20">
                     <h1 className="sm:text-5xl text-4xl font-medium title-font text-black mb-4 dark:text-white">About</h1>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                        Hello, I'm Alf, I'm currently living in Izmir, Turkey and yes I'm Turkish Front-end Developer at Switch Inc. Community Coordinator - Manager at Kaguwo's Pub and GAPI. Senior Moderator at Switch Industries and Discord Extreme List. Turkish Translator at AdBlock, WordPress, GearBot, DEL and more. Mostly using these languages for my projects and more: JavaScript and Python.
+                        Hello, I'm Alf, I'm currently living in Izmir, Turkey and yes I'm Turkish Front-end Developer at Switch Inc. Community Coordinator - Manager at Kaguwo's Pub and GAPI. Senior Moderator at Switch Industries and Discord Extreme List. Turkish Translator at AdBlock, WordPress, GearBot, DEL and more. Mostly using these languages for my projects and more, JavaScript and Python.
                     </p>
                     <div className="flex mt-6 justify-center">
                         <div className="w-72 h-1 rounded-full bg-purple-500 inline-flex"></div>
