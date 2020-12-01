@@ -39,7 +39,7 @@ export default function Skills() {
                         <div className="flex-grow">
                             <h2 className="text-black text-lg title-font font-medium mb-3 dark:text-white">JavaScript</h2>
                             <p className="leading-relaxed text-base">
-                                Everyone who interacts with programming is very familiar with this wonderful language, JavaScript, so at least I think so. My work on JavaScript is very -maybe- old. I developed multiple projects with the help of JavaScript. I feel free to use JavaScript, you can do whatever you dream of - maybe anything lol. I think the best opportunity to start is with JavaScript, a programming language that is superior in usability and functionality with a lot of service areas.
+                                Everyone who interacts with programming is very familiar with this wonderful language, JavaScript, so at least I think so. My work on JavaScript is very -maybe- old. I developed multiple projects with the help of JavaScript. I feel free to use JavaScript, you can do whatever you dream of -maybe anything lol- . I think the best opportunity to start is with JavaScript, a programming language that is superior in usability and functionality with a lot of service areas.
                             </p>
                             <a className="mt-3 text-yellow-500 inline-flex items-center hover:underline" href="https://www.javascript.com/">Learn More
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
