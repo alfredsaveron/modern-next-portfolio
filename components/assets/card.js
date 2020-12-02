@@ -27,7 +27,7 @@ export default function Card() {
                             <FaTwitter />
                             <span className="sr-only">Twitter</span>
                         </a>
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-700 hover:bg-indigo-700 rounded-full hover:text-white transition-colors duration-300" href="https://kaguwo.com/discord">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-700 hover:bg-blue-700 rounded-full hover:text-white transition-colors duration-300" href="https://kaguwo.com/discord">
                             <FaDiscord />
                             <span className="sr-only">Discord</span>
                         </a>
