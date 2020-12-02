@@ -41,9 +41,6 @@ export default function Footer() {
                                 <FaTelegram className="ml-1 w-12 h-12 sm:w-10 sm:h-10" />
                             </a>
                         </li>
-                        <li className="lg:w-1/3 mb-1 w-1/2">
-                            <a className="hover:text-white" href="https://github.com/alfredsaveron">
-                                <FaFontAwesomeFlag className="ml-1 w-12 h-12 sm:w-10 sm:h-10" />
                             </a>
                         </li>
                     </nav>
