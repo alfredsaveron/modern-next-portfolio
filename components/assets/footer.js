@@ -41,8 +41,6 @@ export default function Footer() {
                                 <FaTelegram className="ml-1 w-12 h-12 sm:w-10 sm:h-10" />
                             </a>
                         </li>
-                            </a>
-                        </li>
                     </nav>
                 </div>
             </div>
