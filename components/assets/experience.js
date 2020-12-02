@@ -25,7 +25,7 @@ export default function Skills() {
                             <p className="leading-relaxed text-base">
                                 When I started to learn front-end development from scratch, it was hard. It's just <strong>hard.</strong> First month of learning HTML & CSS needs patience for write more understandable code blocks on your editor. After the first month, I tried to find easy ways to add more amazing stuff on my website and I found some frameworks whose supports plugins. Angular, Vue etc. but one of them impressed me. It was React. With this eco-system and understandable syntax, that day is the wonderful day for me. 💙
                             </p>
-                            <a className="mt-3 text-blue-500 inline-flex items-center hover:underline" href="https://reactjs.org/">Learn More
+                            <a className="mt-3 text-blue-500 inline-flex items-center hover:underline" href="https://github.com/alfredsaveron">Learn More
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
