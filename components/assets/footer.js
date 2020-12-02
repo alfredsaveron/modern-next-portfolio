@@ -30,6 +30,9 @@ export default function Footer() {
                         <li className="lg:w-1/2 mb-1 w-1/3">
                             <a className="hover:text-white" href="https://mertjf.github.io/tailblocks/">Skills & Footer Design</a>
                         </li>
+                        <li className="lg:w-1/2 mb-1 w-1/3">
+                            <a className="hover:text-white" href="https://react-icons.github.io/icons?name=fa">Font Awesome & Icons</a>
+                        </li>
                     </nav>
                     <h2 className="title-font font-medium text-white tracking-widest text-sm mb-3 mt-12">CONTACT</h2>
                     <nav className="flex flex-wrap list-none -mb-1">
