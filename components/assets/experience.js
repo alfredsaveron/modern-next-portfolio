@@ -21,7 +21,7 @@ export default function Skills() {
                             <FaReact className="text-5xl mx-auto inline-block" />
                         </div>
                         <div className="flex-grow">
-                            <h2 className="text-black text-lg title-font font-medium mb-3 dark:text-white">React</h2>
+                            <h2 className="text-black text-lg title-font font-medium mb-3 dark:text-white">HTML</h2>
                             <p className="leading-relaxed text-base">
                                 When I started to learn front-end development from scratch, it was hard. It's just <strong>hard.</strong> First month of learning HTML & CSS needs patience for write more understandable code blocks on your editor. After the first month, I tried to find easy ways to add more amazing stuff on my website and I found some frameworks whose supports plugins. Angular, Vue etc. but one of them impressed me. It was React. With this eco-system and understandable syntax, that day is the wonderful day for me. 💙
                             </p>
