@@ -1,4 +1,4 @@
-import { FaReact } from 'react-icons/fa'
+import { FaHtml5 } from 'react-icons/fa'
 import { FaJsSquare } from 'react-icons/fa'
 import { FaSwift } from 'react-icons/fa'
 
